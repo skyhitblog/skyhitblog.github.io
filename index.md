@@ -11,7 +11,7 @@ Before passing my high school I started making thousands of dollars online with 
 
 I've created ads for brands, like [this](https://www.youtube.com/watch?v=z3c3GyQJVpk) and [that](https://www.youtube.com/watch?v=x2In8M57bdY).
 
-I love making videos with my buddy [Hirak](http://facebook.com/Hirakjsarma). We have shot two videos for <b>Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another on [Innovating](https://www.youtube.com/watch?v=yiQvrTI0l98) something new.
+I love making videos with my buddy [Hirak](http://facebook.com/Hirakjsarma). We have shot two videos for <b>Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another on [Innovation](https://www.youtube.com/watch?v=yiQvrTI0l98).
 
 I've also worked with [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/) team. Go check out their Insta. You will love them. :)
 
