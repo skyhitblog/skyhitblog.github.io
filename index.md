@@ -19,11 +19,13 @@ My works have reached millions of people on Facebook and some have been featured
 
 I was also one of the top 20 influencers on [Triberr](http://triberr.com) according to [BloggingHouse](http://www.blogginghouse.com/top-100-triberr-bloggers/) and [BloggingSpell](http://www.bloggingspell.com/triberr-marketing-tips/).
 
-Right now, I'm pursuing Engineering in <b>Computer Science and IT</b>. My academic projects have been on <b>Cloud Computing</b> and <b>Traffic Analyzing with Raspberry Pi</b>.
+Right now, I'm pursuing <b>Engineering</b> in Computer Science and IT. My academic projects have been on <b>Cloud Computing</b> and <b>Traffic Analyzing with Raspberry Pi</b>.
 
-I believe, "Programming is Magic". I'm learning ANDROID in free time. I build apps with [Ruby on Rails](http://rubyonrails.org) & [React Native](http://facebook.github.io/react-native/).
+"Programming is Magical", I believe. I'm learning ANDROID in my free time.
 
-I've gained some great experiences with some of the most amazing people I've met. It's awesome. :)
+I build apps with [Ruby on Rails](http://rubyonrails.org) & [React Native](http://facebook.github.io/react-native/).
+
+I've gained great experiences from all the amazing people I've met. And the journey has been awesome so far. :)
 
 Presently, I'm working on my new startup. I've got in to [Google Startup Launch program](https://developers.google.com/startups/).
 
