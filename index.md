@@ -11,7 +11,7 @@ I've created ads for brands, like [this](https://www.youtube.com/watch?v=z3c3GyQ
 
 I love making videos with my buddy [Hirak](http://facebook.com/Hirakjsarma). We have shot two videos for <b>Assam Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another on [Exploring and Innovating](https://www.youtube.com/watch?v=yiQvrTI0l98) something new.
 
-I've also worked with some of the Event teams. Notably, [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/). Go check out their Insta. You will love them. :)
+I've also worked with [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/) team. Go check out their Insta. You will love them. :)
 
 My works have reached millions of people on Facebook and some have been featured on popular pages like [TVF](http://facebook.com/sabqtiyapahai/?fref=ts), [HellBoundBloggers](http://www.hellboundbloggers.com), [BloggingCage](http://www.bloggingcage.com) and [FamousBloggers](http://famousbloggers.net).
 
@@ -19,8 +19,10 @@ I was also one of the top 20 influencers on [Triberr](http://triberr.com) accord
 
 I've some great experiences with some of the most awesome people I've met.
 
-Right now, I'm pursuing Engineering in <b>Computer Science and IT</b>. My academic projects have been on <b>Cloud Computing</b> and another on <b>Traffic Analyzing with Raspberry Pi</b>.
+Right now, I'm pursuing Engineering in <b>Computer Science and IT</b>. My academic projects have been on <b>Cloud Computing</b> and <b>Traffic Analyzing with Raspberry Pi</b>.
 
 I believe, "Programming is Magical". I'm learning Android in my free time. I build apps with [Ruby on Rails](http://rubyonrails.org) and [React Native](http://facebook.github.io/react-native/).
 
-Presently, I'm working on my new startup. Rest assured, my future is not that dark after all. ;)
+Presently, I'm working on my new startup.
+
+Rest assured, my future is not that dark after all. ;)
