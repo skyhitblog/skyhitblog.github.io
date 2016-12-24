@@ -28,6 +28,6 @@ I build apps with [Ruby on Rails](http://rubyonrails.org/) & [React Native](http
 
 I've gained great experiences from many amazing people I've met. And the journey has been awesome so far. :)
 
-Presently, I'm working on my new startup. I've got in to [Google Startup Launch program](https://developers.google.com/startups/).
+Presently, I'm working on my new startup. I've got in to [Google Startup Launch](https://developers.google.com/startups/) program.
 
 Rest assured, my future is not that dark after all. &#128521;
