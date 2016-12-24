@@ -1,10 +1,31 @@
 ---
 layout: home
 ---
-# Updating...
-<!--
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+# I'm a dreamer.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I love trying out new things.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new). -->
+I've experience as a Digital Marketer and have worked with several companies like [BitDefender](http://bitdefender.co.uk), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
+
+I've also created ads for brands, like [this](https://www.youtube.com/watch?v=z3c3GyQJVpk) and [that](https://www.youtube.com/watch?v=x2In8M57bdY).
+
+I love making videos too with my buddy [Hirak](http://facebook.com/Hirakjsarma). We have shot two videos for <b>Assam Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98&t=231s) and another on [Exploring and Innovating](https://www.youtube.com/watch?v=yiQvrTI0l98&t=231s) something new.
+
+I've worked with some of the Event teams too. Notably, [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/). Go check out their Insta. You will love them. :)
+
+My works have reached millions of people on Facebook and some have also been featured on some of the most popular pages and blogs like [TVF](http://facebook.com/sabqtiyapahai/?fref=ts), [HellBoundBloggers](http://www.hellboundbloggers.com), [BloggingCage](http://www.bloggingcage.com)
+and [FamousBloggers](http://famousbloggers.net).
+
+I was also one of the top 20 influencers on [Triberr](http://triberr.com) according to [BloggingHouse](http://www.blogginghouse.com/top-100-triberr-bloggers/
+) and [BloggingSpell](http://www.bloggingspell.com/triberr-marketing-tips/
+).
+
+I've some great experiences with some of the most awesome people I've met.
+
+Right now, I'm pursuing Engineering in Computer Science. My academic projects have been interesting too. One on Cloud Computing and another on Traffic Analyzing with Raspberry Pi.
+
+I believe, "Programming is Magical".
+
+I'm learning Android in my free time. I build apps with [Ruby on Rails](http://rubyonrails.org) and [React Native](http://facebook.github.io/react-native/).
+
+I'm working on my upcoming startup too. Rest assured, my future is not that dark after all. ;)
