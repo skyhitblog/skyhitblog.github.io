@@ -9,7 +9,7 @@ I've experience as a Web Master, Content Writer and Digital Marketer (SEO, SMO) 
 
 I've created ads for brands, like [this](https://www.youtube.com/watch?v=z3c3GyQJVpk) and [that](https://www.youtube.com/watch?v=x2In8M57bdY).
 
-I love making videos with my buddy [Hirak](http://facebook.com/Hirakjsarma). We have shot two videos for <b>Assam Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98&t=231s) and another on [Exploring and Innovating](https://www.youtube.com/watch?v=yiQvrTI0l98&t=231s) something new.
+I love making videos with my buddy [Hirak](http://facebook.com/Hirakjsarma). We have shot two videos for <b>Assam Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another on [Exploring and Innovating](https://www.youtube.com/watch?v=yiQvrTI0l98) something new.
 
 I've also worked with some of the Event teams. Notably, [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/). Go check out their Insta. You will love them. :)
 
