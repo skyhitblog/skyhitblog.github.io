@@ -1,7 +1,7 @@
 # Site
 title: Abhijit Matak
 description: Blogger (well, I used to), Thinker, Dreamer
-url: http://skyhitblog.com/
+url: "http://skyhitblog.com/"
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,13 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
 twitter:            skyhitblog
 facebook:           avimatak
 github:             skyhitblog
 linkedin:           skyhitblog
 instagram:          skyhitblogger
+email:              avijit@skyhitblog.com
+#google.plus:        username
 #xing:              username
 #lastfm:            username
 #tumblr:            username
@@ -62,5 +62,3 @@ gems:
 # Exclude list
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
-
-theme: jekyll-theme-cayman
