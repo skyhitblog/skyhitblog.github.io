@@ -6,13 +6,13 @@ layout: home
 Yep, I love dreaming. I do that a lot. I'm a day dreamer actually. &#x1f603;
  As much as that, I love working on new ideas and trying out new things.
 
-I've experience as a Webmaster, Content Writer and Digital Marketer (SEO, SMO) and have worked with several companies like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
+I've experience as a Webmaster, Content Writer and Digital Marketer (SEO, SMO) and have worked with several companies, like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
 
 Before passing my high school I started making thousands of dollars online with Google Adsense and ClickBank.
 
 I've created ads for brands, like [this](https://www.youtube.com/watch?v=z3c3GyQJVpk) and [that](https://www.youtube.com/watch?v=x2In8M57bdY).
 
-I love making videos with my buddy, [Hirak](http://facebook.com/Hirakjsarma/). We have shot two videos for <b>Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another on [Innovation](https://www.youtube.com/watch?v=yiQvrTI0l98).
+I love making videos with my buddy, [Hirak](http://facebook.com/Hirakjsarma/). We have shot two videos for <b>Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another about [Innovation](https://www.youtube.com/watch?v=yiQvrTI0l98).
 
 I've also worked with [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/) teams. Go check out their Insta. You will love them. :)
 
