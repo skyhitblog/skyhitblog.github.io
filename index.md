@@ -26,9 +26,9 @@ Right now, I'm pursuing <b>Engineering</b> in Computer Science and IT. My academ
 
 I build apps with [Ruby on Rails](http://rubyonrails.org/) & [React Native](http://facebook.github.io/react-native/).
 
-Presently, I'm working on my new startup. I've got in to [Google Startup Launch](https://developers.google.com/startups/) program.
+Presently, I'm working on my new startup. And I've got in to [Google Startup Launch](https://developers.google.com/startups/) program.
 
-I've gained great experiences from many amazing people I've met. And the journey has been awesome so far. :)
+I've gained experiences from many amazing people. And the journey has been great so far. :)
 
 Rest assured, my future is not that dark after all. &#128521;
 
