@@ -6,7 +6,7 @@ layout: home
 Yep, I love dreaming. I do that a lot. I'm a day dreamer actually. &#x1f603;
  As much as that, I love working on new ideas and trying out new things.
 
-I've experience as a Web Master, Content Writer and Digital Marketer (SEO, SMO) and have worked with several companies like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
+I've experience as a Webmaster, Content Writer and Digital Marketer (SEO, SMO) and have worked with several companies like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
 
 Before passing my high school I started making thousands of dollars online with Google Adsense and ClickBank.
 
@@ -31,3 +31,5 @@ Presently, I'm working on my new startup. I've got in to [Google Startup Launch]
 I've gained great experiences from many amazing people I've met. And the journey has been awesome so far. :)
 
 Rest assured, my future is not that dark after all. &#128521;
+
+Want to ask something? [Drop me an email](mailto:avijit@skyhitblog.com) and I'll catch up.
