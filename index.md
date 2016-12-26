@@ -6,7 +6,7 @@ layout: home
 Yep, I love dreaming. I do that a lot, not during sleep though. I'm a day dreamer actually. &#x1f603;
  As much as that, I love working on new ideas and trying out new things.
 
-I've experience as a Webmaster, Content Writer and Digital Marketer (SEO, SMO) and have worked with several companies, like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
+I've experience as a Webmaster, Content Creator and Digital Marketer (SEO, SMO) and have worked with several companies, like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
 
 Before passing my high school I started making thousands of dollars online with Google Adsense and ClickBank.
 
