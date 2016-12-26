@@ -3,7 +3,7 @@ layout: home
 ---
 # I'm a dreamer.
 
-Yep, I love dreaming. I do that a lot. I'm a day dreamer actually. &#x1f603;
+Yep, I love dreaming. I do that a lot, not during sleep though. I'm a day dreamer actually. &#x1f603;
  As much as that, I love working on new ideas and trying out new things.
 
 I've experience as a Webmaster, Content Writer and Digital Marketer (SEO, SMO) and have worked with several companies, like [Bitdefender](http://bitdefender.co.uk/), [Amasty](http://amasty.com/) and [Imonomy](http://imonomy.com/).
