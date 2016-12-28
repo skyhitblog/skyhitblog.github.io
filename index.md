@@ -32,4 +32,4 @@ I've gained experiences from many amazing people. And the journey has been great
 
 Rest assured, my future is not that dark after all. &#128521;
 
-Want to ask something? [Drop me an email](mailto:avijit@skyhitblog.com) and I'll catch up.
+Want to ask something? [Drop me an email](mailto:skyhitblog@icloud.com) and I'll catch up.
