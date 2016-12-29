@@ -1,2 +1,2 @@
 # Credits
-- Original Work: [Vangelis Tzortzis] (https://github.com/srekoble)
+- Halve Theme for Jekyll: [Vangelis Tzortzis] (https://github.com/srekoble)
