@@ -11,7 +11,7 @@ Before passing my high school I started making thousands of dollars online via F
 
 I've created ads for brands, like [this](https://www.youtube.com/watch?v=z3c3GyQJVpk) and [this one](https://www.youtube.com/watch?v=x2In8M57bdY).
 
-I love making videos with my buddy, [Hirak](http://facebook.com/Hirakjsarma/). We have shot two videos for <b>Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another about [Innovation and Entrepreneurship](https://www.youtube.com/watch?v=yiQvrTI0l98).
+I love making videos with my buddy, [Hirak](http://facebook.com/Hirakjsarma/). We have shot two videos for <b>Don Bosco University</b> together. One about [Campus Life](https://www.youtube.com/watch?v=yiQvrTI0l98) and another about [Entrepreneurship](https://www.youtube.com/watch?v=yiQvrTI0l98).
 
 I've also worked with [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/) teams. Check out their Insta. You will love them. :)
 
@@ -19,7 +19,7 @@ My works have reached millions of people on Facebook and some have been featured
 
 I was also one of the top 20 influencers on [Triberr](http://triberr.com/) according to [BloggingHouse](http://www.blogginghouse.com/top-100-triberr-bloggers/) and [BloggingSpell](http://www.bloggingspell.com/triberr-marketing-tips/).
 
-Right now, I'm pursuing <b>Engineering</b> in Computer Science and IT.
+I'm pursuing <b>Engineering</b> in Computer Science and IT.
 
 "Programming is Magical", I believe.
 
