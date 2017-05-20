@@ -3,7 +3,7 @@ layout: home
 ---
 # I'm a dreamer.
 
-Yep, I love day dreaming.As much as that, I love working on new ideas and trying out new things.
+Yep, I love day dreaming. As much as that, I love working on new ideas and trying out new things.
 
 I've experience as a Webmaster, Content Creator and Digital Marketer (SEO, SMO). I've worked with several companies, like [Bitdefender](http://bitdefender.co.uk/) and [Amasty](http://amasty.com/).
 
