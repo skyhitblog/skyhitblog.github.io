@@ -32,5 +32,3 @@ I've gained experiences from many amazing people. And the journey has been great
 Rest assured, my future is not that dark after all.
 
 Want to ask something? [Drop me an email](mailto:skyhitblog@icloud.com) and I'll catch up.
-
-You can also [check my résumé online](http://bit.ly/avisresume).
