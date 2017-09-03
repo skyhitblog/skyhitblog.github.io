@@ -5,7 +5,7 @@ layout: home
 
 Yep, I day dream a lot. As much as that, I love working on new ideas and trying out new things. I've recently launched [Inherit I/O](http://inheritio.com) and [Northeast Creatives](http://northeastcreatives.com). 🚀
 
-I've experience as a Webmaster, Content Creator and Digital Marketer. Worked with companies like [Bitdefender](http://bitdefender.co.uk/) and [Amasty](http://amasty.com/).
+I've experience as a Webmaster, Content Creator and Digital Marketer. Worked with companies like Bitdefender and Amasty.
 
 Before passing my high school I started making thousands of dollars online via Blogging and Freelancing.
 
@@ -15,13 +15,13 @@ I love making videos with my buddy, [Hirak](http://facebook.com/Hirakjsarma/). W
 
 I've also worked with [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/) teams. Check out their Insta. You will love them. :)
 
-My works have reached millions of people on Facebook and have been featured on popular pages like [TVF](http://facebook.com/sabqtiyapahai/), [CampusDiaries](https://campusdiaries.com/), [HellBoundBloggers](http://www.hellboundbloggers.com/) and [FamousBloggers](http://famousbloggers.net/).
+My works have reached millions of people on Facebook and have been featured on popular pages like TVF, CampusDiaries, HellBoundBloggers and FamousBloggers.
 
-I was one of the top 20 influencers on [Triberr](http://triberr.com/) according to [BloggingHouse](http://www.blogginghouse.com/top-100-triberr-bloggers/) and [BloggingSpell](http://www.bloggingspell.com/triberr-marketing-tips/).
+I was one of the top 20 influencers on Triberr.com according to BloggingHouse and BloggingSpell.
 
 Right now I'm pursuing <b>Engineering</b> in Computer Science and IT.
 
-I build apps using [Ruby on Rails](http://rubyonrails.org/) & [React Native](http://facebook.github.io/react-native/).
+I build apps using Ruby on Rails & React Native.
 
 Presently, I'm working on my new startup.
 
