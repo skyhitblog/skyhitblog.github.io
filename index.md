@@ -25,6 +25,8 @@ I build apps using Ruby on Rails & React Native.
 
 Presently, I'm working on my new startup.
 
+Update: Just launched the [FoodSpace Whole Foods App](https://play.google.com/store/apps/details?id=com.foodspace.foodspace) for the people guwahati.
+
 I've gained experiences from many amazing people. And the journey has been great so far. :)
 
 Want to ask something? [Drop me an email](mailto:skyhitblog@icloud.com) and I'll catch up.
