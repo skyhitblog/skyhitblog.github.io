@@ -21,7 +21,7 @@ Right now I'm pursuing Engineering in Computer Science and IT.
 
 I love building apps using Ruby on Rails & React Native.
 
-Presently, I'm working on my new startup [FoodSpace](https://play.google.com/store/apps/details?id=com.foodspace.foodspace). We deliver whole foods to your doorstep and have a goal of bridging the gap between food producers and consumers.
+Presently, I'm working on my new startup [FoodSpace](http://foodspace.in). We deliver whole foods to your doorstep and have a goal of bridging the gap between food producers and consumers.
 
 I've gained a lot of experience by working with many amazing people. The journey has been great so far. :)
 
