@@ -5,7 +5,7 @@ layout: home
 
 I day dream a lot. As much as that, I love working on new ideas.
 
-I've worked with companies like Bitdefender and Amasty, I've an experience as a Developer, Webmaster, Content Creator and Digital Marketer.
+I've worked with companies like Bitdefender and Amasty and have an experience as a Developer, Webmaster, Content Creator and Digital Marketer.
 
 Before passing my high school I started making money online via Blogging and Freelancing.
 
