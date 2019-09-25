@@ -11,7 +11,7 @@ I have experience as a Developer, Webmaster, Content Creator and Digital Markete
 
 Before passing my high school I started making money online via Blogging and Freelancing.
 
-I love maths, chess and building apps. 🚀 
+I love maths, playing chess and building apps. 🚀 
 
 And I love making videos with my team [Alchemy Pixels](http://alchemypixels.com).
 
