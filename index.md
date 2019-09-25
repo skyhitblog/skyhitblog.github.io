@@ -11,11 +11,11 @@ I have experience as a Developer, Webmaster, Content Creator and Digital Markete
 
 Before passing my high school I started making money online via Blogging and Freelancing.
 
-I love maths, playing chess and building apps. 🚀 
+I love maths, cryptos, playing chess and building apps. 🚀 
 
 And I love making videos with my team [Alchemy Pixels](http://alchemypixels.com).
 
-We have created ads for brands and videos for artists. You may go through our [Youtube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
+We have created ads for brands and videos for artists. You may go through our [YouTube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
 
 My designs have reached millions of people on Facebook and have been featured on popular pages like TVF and CampusDiaries.
 
