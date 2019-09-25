@@ -21,4 +21,4 @@ My design works have reached millions of people on Facebook and have been featur
 
 In my life I've gained a lot of experience by working with some amazing people. The journey has been great so far. :)
 
-Want to ask something? [Drop me an email](mailto:skyhitblog@icloud.com) and I'll catch up.
+Want to ask something? [Drop me an email](mailto:avi@alchemypixels.com) and I'll catch up.
