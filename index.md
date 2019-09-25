@@ -13,7 +13,7 @@ Before passing my high school I started making money online via Blogging and Fre
 
 I love building apps. I use Ruby on Rails & React Native. 🚀 
 
-And I love making videos with my team [Alchemy Pixels](https://alchemypixels.com).
+And I love making videos with my team [Alchemy Pixels](http://alchemypixels.com).
 
 We have created ads for brands and videos for artists. You may go through our [Youtube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
 
