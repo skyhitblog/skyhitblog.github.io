@@ -3,23 +3,21 @@ layout: home
 ---
 # I'm a day dreamer.
 
-I day dream a lot. As much as that, I love working on new ideas.
+I day dream a lot. That inspires me to work on new ideas.
 
-I've worked with companies like Bitdefender and Amasty and have an experience as a Developer, Webmaster, Content Creator and Digital Marketer.
+I've worked with organisations like The British Council and Don Bosco University.
+
+I have experience as a Developer, Webmaster, Content Creator and Digital Marketer.
 
 Before passing my high school I started making money online via Blogging and Freelancing.
 
-We have created ads for brands like [Poptales](https://www.youtube.com/watch?v=z3c3GyQJVpk) and influential organizations like [Assam Don Bosco University](https://www.youtube.com/watch?v=x2In8M57bdY).
+We have created ads for brands and videos for artists. You may go through our [Youtube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
 
-I love making videos with my buddy, [Hirak](http://facebook.com/Hirakjsarma/) and team [Alchemy Pixels](https://www.instagram.com/alchemypixels/). He's a great videographer. You should check his work.
+I love making videos with my team [Alchemy Pixels](https://alchemypixels.com).
 
-We have also worked with the teams of [RoughItOut](https://www.instagram.com/roughitout/) and [Metropolis Asia](https://www.instagram.com/metropolisasia/) and many other teams.
+My design works have reached millions of people on Facebook and have been featured on popular pages like TVF and CampusDiaries.
 
-My works have reached millions of people on Facebook and have been featured on popular pages like TVF and CampusDiaries.
-
-Right now I'm pursuing Engineering in Computer Science and IT.
-
-I love building apps using Ruby on Rails & React Native. 🚀 
+I love building apps too. I use Ruby on Rails & React Native. 🚀 
 
 I've gained a lot of experience by working with many amazing people. The journey has been great so far. :)
 
