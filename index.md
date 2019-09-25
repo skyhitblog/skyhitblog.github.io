@@ -11,14 +11,14 @@ I have experience as a Developer, Webmaster, Content Creator and Digital Markete
 
 Before passing my high school I started making money online via Blogging and Freelancing.
 
-We have created ads for brands and videos for artists. You may go through our [Youtube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
+I love building apps. I use Ruby on Rails & React Native. 🚀 
 
-I love making videos with my team [Alchemy Pixels](https://alchemypixels.com).
+And I love making videos with my team [Alchemy Pixels](https://alchemypixels.com).
+
+We have created ads for brands and videos for artists. You may go through our [Youtube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
 
 My design works have reached millions of people on Facebook and have been featured on popular pages like TVF and CampusDiaries.
 
-I love building apps too. I use Ruby on Rails & React Native. 🚀 
-
-I've gained a lot of experience by working with many amazing people. The journey has been great so far. :)
+In my life I've gained a lot of experience by working with some amazing people. The journey has been great so far. :)
 
 Want to ask something? [Drop me an email](mailto:skyhitblog@icloud.com) and I'll catch up.
