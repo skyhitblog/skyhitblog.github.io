@@ -3,22 +3,18 @@ layout: home
 ---
 # I'm a day dreamer.
 
-Yeah, I day dream a lot, but that inspires me to work on new projects and new ideas.
+I day dream more than I should and that inspires me to work on new projects and new ideas.
 
-I've worked with organisations like The British Council and Don Bosco University.
+Basically I'm a Computer Engineer and a Film Producer.
 
-I have experience as a Developer, Webmaster, Content Creator and Digital Marketer.
+I work at Alchemy Pixels and we have worked with clients like Pinkathon, The British Council and Don Bosco University.
 
-Before passing my high school I started making money online via Blogging and Freelancing.
+I used to do Blogging and Freelancing; and now I'm more involved in Product Development and Filmmaking.
 
-I love maths, cryptos, playing chess and building apps. 🚀 
+I love math, playing chess and building apps. I'm a Bitcoin enthusiast a big Musk fan.
 
-And I love making videos with my team [Alchemy Pixels](http://alchemypixels.com).
+We produces films at [Alchemy Pixels](http://alchemypixels.com).
 
-We have created ads for brands and videos for artists. You may go through our [YouTube](http://youtube.com/alchemypixels) and [Vimeo](http://vimeo.com/alchemypixels).
+In my life I've gained a lot of experience by working with some really amazing people. The journey has been great so far. :)
 
-My designs have reached millions of people on Facebook and have been featured on popular pages like TVF and CampusDiaries.
-
-In my life I've gained a lot of experience by working with some amazing people. The journey has been great so far. :)
-
-Want to ask something? [Drop me an email](mailto:avi@alchemypixels.com) and I'll catch up.
+Want to collaborate? [Drop me an email](mailto:avi@alchemypixels.com) and I'll catch up.
