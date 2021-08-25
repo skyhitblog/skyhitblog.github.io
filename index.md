@@ -11,10 +11,6 @@ I work with several clients by providing my technological and design solutions t
 
 I'm also a cofounder at [Alchemy Pixels](http://alchemypixels.com), a film production house based in Guwahati, Northeast India. 
 
-We have worked with clients like Pinkathon, The British Council and Don Bosco University.
-
-I used to do Blogging and Freelancing; but now I'm more involved in Product Development and Filmmaking.
-
 I love Math, playing Chess and Catan. And my love for music and food is endless. 
 
 I'm also a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid and decentralizing things.
