@@ -3,7 +3,7 @@ layout: home
 ---
 # I'm a day dreamer. I inspire myself.
 
-Probably I day dream more than I should. And always working on new projects and new ideas.
+Probably I day dream more than I should. And you will always find me working on new projects and new ideas.
 
 I'm a Computer Engineer. I've always been very passionate about computers and tech in general since my school days.
 
