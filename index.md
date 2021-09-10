@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# I'm a day dreamer. I inspire myself.
+# I'm a day dreamer.
 
 Probably I day dream more than I should. And you will always find me working on new projects and new ideas.
 
