@@ -15,7 +15,7 @@ I love Math, playing Chess and Catan. And my love for good stories, music and fo
 
 I'm also a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid and decentralizing things.
 
-In my life I've gained a lot of experience by working with some really amazing people. The journey has been great so far. :)
+I've gained a lot of experience by working with some really amazing people. The journey has been great so far. :)
 
 Also I'm sorry if you were here for the blog. It's long gone, but will be back someday!
 
