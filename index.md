@@ -7,9 +7,9 @@ Probably I day dream more than I should. And you will always find me working on 
 
 I'm a Computer Engineer. I've always been very passionate about computers and tech in general since my school days.
 
-I work with several clients by providing my technological and design solutions through my firm INHERIT IO.
+I work with several clients and provide my technological & design solutions through INHERIT IO.
 
-I'm also a cofounder at [Alchemy Pixels](http://alchemypixels.com), a film production house based in Guwahati, Northeast India. 
+I'm a cofounder of [Alchemy Pixels](http://alchemypixels.com), a film production house based in Guwahati, Northeast India. 
 
 I love Math, playing Chess and Catan. And my love for music and food is endless. 
 
