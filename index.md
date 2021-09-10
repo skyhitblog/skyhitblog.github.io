@@ -11,7 +11,7 @@ I work with several clients and provide my technological & design solutions thro
 
 I'm a cofounder of [Alchemy Pixels](http://alchemypixels.com), a film production house based in Guwahati, Northeast India. 
 
-I love Math, playing Chess and Catan. And my love for music and food is endless. 
+I love Math, playing Chess and Catan. And my love for good stories, music and food is endless. 
 
 I'm also a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid and decentralizing things.
 
