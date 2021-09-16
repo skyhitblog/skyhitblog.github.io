@@ -9,7 +9,7 @@ I'm a Computer Engineer. I've always been very passionate about computers and te
 
 I work with several clients and provide my technological & design solutions through INHERIT.
 
-I'm a cofounder of [Alchemy Pixels](http://alchemypixels.com), a film production house based in Guwahati, Northeast India. 
+I'm a co-founder of [Alchemy Pixels](http://alchemypixels.com), a film production house based in Northeast India. 
 
 I love Math, playing Chess and Catan. And my love for good stories, music and food is endless. 
 
