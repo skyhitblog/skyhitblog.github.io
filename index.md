@@ -11,7 +11,7 @@ I believe technology is the closest thing that we have to magic in this modern w
 
 I'm a co-founder of [Alchemy Pixels](http://alchemypixels.com), a film production house based in Northeast India. 
 
-I love Math, playing Chess and Catan. And my love for good stories, music and food is endless. 
+I'm a big fan of good design and I love Math, playing Chess and Catan. And my love for good stories, music and food is endless. 
 
 I'm also a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid & decentralizing things.
 
