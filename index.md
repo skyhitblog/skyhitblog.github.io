@@ -3,11 +3,11 @@ layout: home
 ---
 # I'm a day dreamer.
 
-Probably I day dream more than I should. And you will always find me working on new projects and ideas.
+Probably I day dream more than I should. And you will always find me working on new ideas.
 
 I'm a Computer Engineer. I've always been very passionate about computers and tech in general since my school days.
 
-I work with several clients and provide my technological & design solutions through INHERIT.
+I believe technology is the closest thing that we have to magic in this modern world.
 
 I'm a co-founder of [Alchemy Pixels](http://alchemypixels.com), a film production house based in Northeast India. 
 
