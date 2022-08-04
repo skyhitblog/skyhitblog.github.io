@@ -13,7 +13,7 @@ I've always been very passionate about tech. I was in class IV when I first got 
 
 I believe technology is the closest thing that we have to magic in this modern world. And now with blockchain tech things are just getting started.
 
-I'm a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid & decentralizing things.
+I'm a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid & decentralization.
 
 I'm a big fan of good design and I love Math, playing Chess and Catan. And my love for good stories, music and food is endless. 
 
