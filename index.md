@@ -9,7 +9,7 @@ Ok, having said that I started my first venture when we were still in Engineerin
 
 I then joined as a co-founder at [Alchemy Pixels](http://alchemypixels.com), a film production house based in Northeast India. We work with artists, festival organizers and on documentaries.
 
-I've always been very passionate about tech in general. I was in class 4 when I first got my hands on the school computer and I knew then and there that this is it, this is my life.
+I've always been very passionate about tech. I was in class IV when I first got my hands on the school computer and I knew then and there that this is it, this is my life.
 
 I believe technology is the closest thing that we have to magic in this modern world. And now with blockchain tech things are just getting started.
 
