@@ -15,7 +15,7 @@ I believe technology is the closest thing that we have to magic in this modern w
 
 I'm a Bitcoin enthusiast and a big Musk fan. I believe in going off-grid & decentralization.
 
-I'm a big fan of good design and I love Math, playing Chess and Catan. And my love for good stories, music and food is endless. 
+I'm a big fan of good design, Math, Chess and Catan. And my love for good stories, music and food is endless. 
 
 I've been through so many experiences, working with some really amazing people. The journey has been great so far. :)
 
