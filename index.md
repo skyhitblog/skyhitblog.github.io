@@ -19,8 +19,6 @@ I'm a big fan of good design, Math, Chess and Catan. And my love for good storie
 
 I've been through so many experiences, working with some really amazing people. The journey has been great so far. :)
 
-Also I'm sorry if you were here for the blog. It's long gone, but will be back someday!
-
-But, I write scribbles from time to time. You can check my [tumblr](http://scribblesbyavi.tumblr.com) if you want.
+Also I'm sorry if you were here for the blog. It's long gone, but will be back someday. But I write scribbles from time to time. You can check my [tumblr](http://scribblesbyavi.tumblr.com) if you want.
 
 Want to collaborate? [Drop me an email](mailto:avi@alchemypixels.com) and I'll catch up.
