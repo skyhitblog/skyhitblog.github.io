@@ -3,7 +3,7 @@ layout: home
 ---
 # I'm a mix of tech and art.
 
-I day dream. Probably I day dream more than I should. And you will always find me working on new ideas!
+I'm a day dreamer. Probably I day dream more than I should. And you will always find me working on new ideas!
 
 Ok, having said that I started my first venture when we were still in Engineering. It was about brand design and corporate solutions. Then the next just before graduation. That one was a whole foods delivery service.
 
