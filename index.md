@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# I'm a mix of TECH x ART.
+# I'm a mix of Tech x Art.
 
 I'm a day dreamer. Probably I day dream more than I should. And you will always find me working on new ideas!
 
