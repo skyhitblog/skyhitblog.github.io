@@ -9,7 +9,7 @@ I'm a big fan of design. I like math, chess and catan. My love for good stories,
 
 I love writing, producing films with my team and also developing new apps and businesses. 
 
-I write scribbles from time to time. You can check my [tumblr](http://scribblesbyavi.tumblr.com) if you want.
+I write scribbles from time to time on my [tumblr](http://scribblesbyavi.tumblr.com).
 
 I'm a mix of both worlds - creativity and technology.
 
