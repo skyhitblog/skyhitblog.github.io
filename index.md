@@ -5,7 +5,7 @@ layout: home
 
 I'm a day dreamer. Probably I day dream more than I should. And you will always find me working on new ideas!
 
-I'm a big fan of design, Math, Chess and Catan. My love for good stories, music and food is endless. 
+I'm a big fan of design. I like math, chess and catan. My love for good stories, music and food is endless. 
 
 I love writing, producing films with my team and also developing new apps and businesses. 
 
