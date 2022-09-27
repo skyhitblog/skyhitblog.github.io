@@ -17,6 +17,6 @@ I started my first venture when we were still in Engineering. It was about brand
 
 I then joined as a co-founder at [Alchemy Pixels](http://alchemypixels.com), a film production house based in Northeast India. We work with artists, festival organizers and create documentaries.
 
-I've been had amazing experiences working with some awesome people. The journey has been great so far. :)
+I've had amazing experiences working with some awesome people. The journey has been great so far. :)
 
 Want to collaborate or build apps? [Drop me an email](mailto:avi@alchemypixels.com) and I'll catch up.
