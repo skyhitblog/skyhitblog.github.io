@@ -5,13 +5,13 @@ layout: home
 
 I'm a day dreamer. Probably I day dream more than I should. And you will always find me working on new ideas!
 
-I'm a big fan of design. I like math, chess and catan.  I’m also a bitcoin and blockchain enthusiast.
+I'm a big fan of design. I like math, chess and catan.
 
-I really believe that blockchain will have so many real world usecases and will help decentralise some highly centralised ecosystems.
+I’m also a bitcoin and blockchain enthusiast. I really believe that blockchain will help decentralise some highly centralised ecosystems.
+
+I love writing, producing films with my team and also developing new apps and businesses.
 
 And my love for good stories, music and food is endless. 
-
-I love writing, producing films with my team and also developing new apps and businesses. 
 
 I write scribbles from time to time on my [tumblr](http://scribblesbyavi.tumblr.com).
 
