@@ -13,8 +13,6 @@ I love writing, producing films with my team and also developing new apps and bu
 
 And my love for good stories, music and food is endless. 
 
-I write scribbles from time to time on my [tumblr](http://scribblesbyavi.tumblr.com).
-
 I'm a mix of both worlds - creativity and technology.
 
 I started my first venture when we were still in Engineering. It was about brand design and corporate solutions. Then the next just before graduation.
