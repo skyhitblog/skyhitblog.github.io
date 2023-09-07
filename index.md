@@ -17,6 +17,6 @@ My love for good stories, music and food is endless.
 
 I’ve had amazing experiences working with everyone. The journey has been great so far. :)
 
-Want to collaborate or build apps? Drop me an email.
+Want to collaborate or build apps?  {% mailto:avi@alchemypixels.com %} Drop me an email.
 
 Avi
