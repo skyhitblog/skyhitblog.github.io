@@ -11,7 +11,7 @@ I’m a bitcoin and blockchain enthusiast. I really believe that the technology 
 
 I love writing and producing films with my amazing team at Alchemy Pixels. I also develop  web apps and mobile apps to help launch businesses.
 
-We have worked with some amazing artists like Benny Dayal, Nick Murphy, Taba Chake to name a few.
+We have worked with some of the best artists like Benny Dayal, Nick Murphy, Taba Chake to name a few.
 
 My love for good stories, music and food is endless. 
 
